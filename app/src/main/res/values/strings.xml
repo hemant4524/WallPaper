@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WallPaper</string>
+    <string name="title_activity_splace_screen">WallPaper</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">closed</string>
+</resources>
